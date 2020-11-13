@@ -4,6 +4,8 @@
 
 body {
   padding: 60px;
+ 
+  
 }
 
 input {
@@ -19,6 +21,7 @@ input {
   overflow: hidden;
   margin-bottom: 10px;
   margin-right: 10px;
+  width: 350px;
 
 }
 
@@ -28,11 +31,12 @@ input {
 }
 
 .card img {
-  max-height: 17p0x;
+  width: 100%;
 }
 
 .card-grid {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  justify-content: space-between;
 }
