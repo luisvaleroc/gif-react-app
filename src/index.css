@@ -28,6 +28,7 @@ input {
 .card p {
   padding: 5px;
   text-align: center;
+  font-weight: bold;
 }
 
 .card img {
