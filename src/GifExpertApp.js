@@ -8,10 +8,10 @@ export const GifExpertApp = () => {
     
     const [categories, setcategories] = useState(['Rick And Morty'])
 
-    const handdleAdd = () => {
+   /* const handdleAdd = () => {
         //setcategories([...categories, 'luis']);
        // setcategories(cats=> [...cats, 'Luisito']);
-    }
+    }*/
 
     return (      
     <>
